@@ -4,13 +4,13 @@
 
 > This is to add a contact form to the portfolio
 
+## Authors
 
-👤 **Aganze Mataba Henri**
+👤 **NGANULO RUSHANIKA Moise**
 
-- GitHub: [@hiromataba](https://github.com/hiromataba)
-- Twitter: [@twitterhandle](https://twitter.com/MatabaHiro)
-- LinkedIn: [Hiro Mataba](https://www.linkedin.com/in/hiro-mataba-1bb910209/)
-
+- GitHub: [@githubhandle](https://github.com/moise10r)
+- Twitter: [@twitterhandle](https://twitter.com/MRushanika)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nganulo-rushanika-mo%C3%AFse-626139197/)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
